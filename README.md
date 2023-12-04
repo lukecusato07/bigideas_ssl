@@ -18,10 +18,11 @@ https://data.wprdc.org/dataset/uniform-crime-reporting-data/resource/044f2016-1d
 Non-traffic citations (citations.ipnyb) - Shane 
 https://data.wprdc.org/dataset/non-traffic-citations/resource/6b11e87d-1216-463d-bbd3-37460e539d86
 
+### Description
+In this project we analyzed three different metrics and datasets to create a combined metric of safety, quality, and green spaces to determine the best neighborhood in Pittsburgh.
 
 #### Old Commit History
 We had issue with git, and made a new repository.
 https://github.com/ShaneKillen/bigideas_final/commits/418aab2b970bb31bc0679403deeb1435802c0895
 
-##### Description
-In this project we analyzed three different metrics and datasets to create a combined metric of safety, quality, and green spaces to determine the best neighborhood in Pittsburgh.
+
