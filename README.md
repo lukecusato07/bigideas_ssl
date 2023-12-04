@@ -19,5 +19,6 @@ Non-traffic citations - Shane
 https://data.wprdc.org/dataset/non-traffic-citations/resource/6b11e87d-1216-463d-bbd3-37460e539d86
 
 
-#### Old commit history
+#### Old Commit History
+We had issue with git, and made a new repository.
 https://github.com/ShaneKillen/bigideas_final/commits/418aab2b970bb31bc0679403deeb1435802c0895
